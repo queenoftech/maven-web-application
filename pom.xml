@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>disney-app</finalName>
+		<finalName>tesla-prod</finalName>
 		
 		<plugins>
 			<plugin>
