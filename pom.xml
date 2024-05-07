@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>boa-app</finalName>
+		<finalName>dignari.war</finalName>
 		
 		<plugins>
 			<plugin>
