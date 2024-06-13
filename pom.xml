@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>dignari.war</finalName>
+		<finalName>beryl.war</finalName>
 		
 		<plugins>
 			<plugin>
