@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>beryl</finalName>
+		<finalName>beryl.war</finalName>
 		
 		<plugins>
 			<plugin>
